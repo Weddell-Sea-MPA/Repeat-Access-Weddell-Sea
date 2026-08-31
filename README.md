@@ -1,6 +1,8 @@
 # Repeated Accessibility Analysis
 
-This repository contains the data, code, and manuscript files for the Sea Ice Repeated Accessibility (RA) analysis in the Southern Ocean. The project evaluates sea-ice accessibility to support spatial planning for the Fisheries Research Zone (FRZ = RB5) and Research Blocks (RB4 and RB5) within the Weddell Sea MPA.
+This repository contains the data*, code, and manuscript files* for the Sea Ice Repeated Accessibility (RA) analysis in the Southern Ocean. The project evaluates sea-ice accessibility to support spatial planning for the Fisheries Research Zone (FRZ = RB5) and Research Blocks (RB4 and RB5) within the Weddell Sea MPA.
+
+*data and manuscript files are not available in this github repository, but might be made available upon request.
 
 ## Directory Structure
 
