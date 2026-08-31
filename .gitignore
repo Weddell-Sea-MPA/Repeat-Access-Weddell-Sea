@@ -1,0 +1,16 @@
+
+
+# Ignore data and results (too large for GitHub)
+01_code/B_old/
+03_original_data/
+04_cleaned_data/
+05_results/
+06_literature/
+07_manuscript/
+2025/
+
+# Ignore R history and project files
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
